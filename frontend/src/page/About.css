@@ -1,0 +1,76 @@
+/* src/page/About.css */
+.about-container {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .about-header {
+    text-align: center;
+    background-color: #70c46f;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .about-header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  .about-header p {
+    font-size: 1.2rem;
+  }
+  
+  .about-content {
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-content h2 {
+    color: #70c46f;
+  }
+  
+  .about-content p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  .about-benefits {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  }
+  
+  .benefit {
+    text-align: center;
+    width: 30%;
+  }
+  
+  .benefit h3 {
+    color: #70c46f;
+  }
+  
+  .about-process ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .about-process li {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+  
+  .about-footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1rem;
+    color: #777;
+  }
+  
